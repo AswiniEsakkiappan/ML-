@@ -83,6 +83,11 @@ Running the notebook produces:
 - Inspect feature importance or model coefficients
 - Check for features that may leak the label
 
-## Author
 
-Week 8 assignment.
+## output
+
+<img width="581" height="455" alt="image" src="https://github.com/user-attachments/assets/9b63c5f9-f6ca-4916-91ca-ef9d7905fe4a" />
+
+<img width="448" height="455" alt="image" src="https://github.com/user-attachments/assets/3d69a27a-33c1-4e90-970a-5b77daf05341" />
+
+
